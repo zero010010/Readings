@@ -1,6 +1,6 @@
 # Welcome to My Data Science Reading List! 📚
 
-This repository contains a collection of books and readings related to data science. They are public, so feel free to use them. Thank you for visiting my page!
+This repository contains a collection of books and readings related to data science. 
 
 ## Books 📖
 Roadmap for Becoming a Data Engineer In 2023<br>
